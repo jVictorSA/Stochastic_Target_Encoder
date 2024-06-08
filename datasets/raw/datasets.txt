@@ -1,0 +1,8 @@
+airbnb = https://www.kaggle.com/datasets/lovishbansal123/airbnb-data
+
+[OpenML id = 42712]
+bike sharing = https://www.openml.org/search?type=data&status=active&id=42712
+
+air pollution sp = https://www.kaggle.com/datasets/samirnunesdasilva/sao-paulo-pollution-data
+
+co2 emissions = https://www.kaggle.com/datasets/ahmettyilmazz/fuel-consumption
